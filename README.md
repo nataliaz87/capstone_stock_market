@@ -1,2 +1,2 @@
-# capstone_stock_market
+# Capstone Stock Market
 Thorough investment analysis helps to see a company’s expenditures, its management’s efficiency in creating profits, and how positive the company's future prognosis is.   The purpose of this analysis is to compile multiple datasets containing quarterly financial statements from publicly traded companies over a 5-year period (2015-2020), and create a model for determining the estimated value of a company based on its financial position using publicly available data.   The main goal of this analysis is to identify companies that are undervalued by the market, and whose share price is projected to increase in the future to make profitable investment decisions.
