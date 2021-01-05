@@ -1,6 +1,6 @@
 # EDGAR Stock Market 2020 Analysis (Quarters 1- 3)
 
-# Presentation is availble above as an attachment.
+### Presentation is availble above as an attachment.
 
 Thorough investment analysis helps to see a company’s expenditures, its management’s efficiency in creating profits, and how positive the company's future prognosis is.   
 
