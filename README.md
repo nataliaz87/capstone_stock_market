@@ -46,4 +46,4 @@ The statements are open to interpretation, and as a result, investors often draw
 
 Never blindly accept what stock analysts have to say and always do your own research.
 
-Incorporating more tables into the analysis will give so much more knowledge.
+Incorporating more tables into the analysis will give so much more insight.
