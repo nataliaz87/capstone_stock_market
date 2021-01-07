@@ -1,6 +1,6 @@
 # Securities and Exchange Commission EDGAR Stock Market 2020 Analysis (Quarters 1- 3)
 
-### Presentation is availble above as an attachment.
+### Presentation is available above as a .pdf attachment.
 ### Tableau visuals are [here](https://public.tableau.com/profile/natalia.zemchikhina#!/vizhome/AvgPriceofTop3StockswithForecast/Presentation)
 
 Thorough investment analysis helps to see a company’s expenditures, its management’s efficiency in creating profits, and how positive the company's future prognosis is.   
