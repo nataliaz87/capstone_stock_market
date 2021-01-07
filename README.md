@@ -10,7 +10,7 @@ The purpose of this analysis is to compile multiple datasets containing quarterl
 The stock market has reached record highs and is projected to continue increasing due to breakthrough innovations in Artificial Intelligence, 5G networks, and automation in manufacturing. There are thousands of companies trading on the stock exchange. Data allows an investor to find those companies that are in excellent financial health and exceed market expectations. Data-driven financial investment decisions may increase an investor’s potential earnings. 
 
 # Motivation
-I am hoping that answering the data questions will enable me to use the findings to make good investment choices.
+I chose this topic, because I have always been interested in the stock market. However, I never could find the time to explore it. Thanks to Nashville Software School I was able to learn so much about the stock market investing. The idea of investing and making a profit is very enticing. However, before working on the project, I knew very little about the stock market, and I had to start from the very beginning. I am hoping that answering the data questions will enable me to use the findings to make good investment choices.
 
 # Data Questions
 What are the top 3 financially strongest companies based on the annual Financial Statements reports (working capital, cash per share, current ratio, earnings per share)?
