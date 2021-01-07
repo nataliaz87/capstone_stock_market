@@ -28,7 +28,9 @@ I started with exploration of 10-Ks: their number in each Quarter, what fiscal y
 
 Through a comparative analysis I selected Microsoft, Nike and KLA as the top 3 stocks based on the specific performance indicators. Had I invested in these 3 companies after the June 30, 2020 10-K release, I would have made a profit of 10%, 32% and 26% respectively.
 
-I also conducted a five-year stock price analysis of the top 3 performers and created average share price with forecasting charts for them. We can see quite a steady price growth
+I also conducted a five-year stock price analysis of the top 3 performers and created average share price with forecasting charts for them. We can see quite a steady price growth.
+
+The calculations are based on the Q3 2020 data only.
 
 # Conclusions
 There’s a lot more to learn and more data questions to answer.
